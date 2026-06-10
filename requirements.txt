@@ -1,0 +1,30 @@
+# Core dependencies
+requests>=2.31.0
+urllib3>=2.1.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Tor networking
+PySocks>=1.7.1
+stem>=1.8.2
+
+# Reporting
+jinja2>=3.1.2
+
+# Data processing
+dateparser>=1.2.0
+
+# Fuzzy matching (stdlib difflib used, optionally for speed)
+python-Levenshtein>=0.25.0
+
+# OTX enrichment
+OTX-Python-SDK>=1.1.2
+
+# Type hints (stdlib in 3.10+)
+# typing-extensions for older 3.10 backports
+typing-extensions>=4.9.0
+
+# Optional: Tor client library alternative
+# torpy>=1.1.0

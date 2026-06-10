@@ -1,0 +1,65 @@
+{
+  "tor": {
+    "proxy_host": "127.0.0.1",
+    "proxy_port": 9050,
+    "proxy_type": "socks5",
+    "control_port": 9051,
+    "control_password": null,
+    "new_circuit_every": 50,
+    "connection_timeout": 30
+  },
+  "crawler": {
+    "default_depth": 2,
+    "max_pages_per_source": 100,
+    "page_timeout": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; rv:128.0) Gecko/20100101 Firefox/128.0",
+    "respect_robots_txt": false,
+    "max_retries": 3,
+    "circuit_breaker_threshold": 5,
+    "circuit_breaker_reset_seconds": 300
+  },
+  "database": {
+    "path": "dark_intel.db",
+    "max_snippet_length": 2000,
+    "dedup_enabled": true
+  },
+  "matching": {
+    "fuzzy_threshold": 0.75,
+    "case_sensitive": false,
+    "enable_regex": true,
+    "enable_fuzzy": true,
+    "enable_exact": true
+  },
+  "daemon": {
+    "enabled": false,
+    "interval_seconds": 21600,
+    "alert_on_new": true,
+    "log_delta_only": true
+  },
+  "reporting": {
+    "output_dir": "reports",
+    "max_snippets_in_report": 500,
+    "generate_html": true,
+    "generate_json": true
+  },
+  "alerts": {
+    "webhook_url": null,
+    "alert_on_critical": true,
+    "alert_on_high": true,
+    "alert_on_medium": false,
+    "slack_webhook": null,
+    "telegram_bot_token": null,
+    "telegram_chat_id": null
+  },
+  "enrichment": {
+    "otx_api_key": null,
+    "whois_lookup": true,
+    "domain_age_threshold_days": 30,
+    "enable_dns_resolution": false
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "dark_intel.log",
+    "format": "%(asctime)s [%(levelname)s] %(name)s: %(message)s"
+  }
+}

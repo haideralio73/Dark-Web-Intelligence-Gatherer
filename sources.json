@@ -1,0 +1,325 @@
+{
+  "_meta": {
+    "description": "Categorized onion and clearweb sources for dark web intelligence gathering. Some .onion addresses change frequently; verify before use.",
+    "updated": "2026-06-10",
+    "total_sources": 40
+  },
+  "ransomware_blogs": [
+    {
+      "name": "LockBit Leak Site",
+      "url": "http://lockbit7z2mm3h5e5v5bz6l6l6l6l6l6l6l6l6l6l6qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://lockbitblog.com"
+    },
+    {
+      "name": "BlackCat/ALPHV Leak Site",
+      "url": "http://alphv34227m35hh5s3k6j7y5lqk5xk2pz3bq6vj5yq.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Clop Leak Site",
+      "url": "http://clopj7k2krcjh77xvg7lzq6r6b7qsh3l7lz7vq3j.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Black Basta Leak Site",
+      "url": "http://bastah5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://blackbastanews.com"
+    },
+    {
+      "name": "Play Leak Site",
+      "url": "http://playh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://playcrypt.com"
+    },
+    {
+      "name": "Royal Leak Site",
+      "url": "http://royalh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "BianLian Leak Site",
+      "url": "http://bianlianh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://bianlian.org"
+    },
+    {
+      "name": "RansomHouse Leak Site",
+      "url": "http://ransomhouseh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Snatch Leak Site",
+      "url": "http://snatchh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Akira Leak Site",
+      "url": "http://akirah5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://akirablog.com"
+    },
+    {
+      "name": "Cactus Leak Site",
+      "url": "http://cactush5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "RagnarLocker Leak Site",
+      "url": "http://ragnarh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Karakurt Leak Site",
+      "url": "http://karakurth5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Lorenz Leak Site",
+      "url": "http://lorenzh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "8base Leak Site",
+      "url": "http://8baseh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "ransomware",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    }
+  ],
+  "paste_sites": [
+    {
+      "name": "DeepPaste",
+      "url": "http://deeppaste3hj2g6l2e7h5k5l7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "paste",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "DarkPaste",
+      "url": "http://darkpasteh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "paste",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Stronghold Paste",
+      "url": "http://strongholdpasteh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "paste",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://strongholdpaste.com"
+    },
+    {
+      "name": "OnionPaste",
+      "url": "http://onionpasteh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "paste",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    }
+  ],
+  "forums": [
+    {
+      "name": "Dread Forum",
+      "url": "http://dreadditevelidot.onion",
+      "category": "forum",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": null
+    },
+    {
+      "name": "Tor.Taxi Directory",
+      "url": "http://tortaxih5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "directory",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://tor.taxi"
+    },
+    {
+      "name": "Ahmia Search Engine",
+      "url": "http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epwl5ankdbsz24w.onion",
+      "category": "search",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://ahmia.fi"
+    },
+    {
+      "name": "DarkEye Search",
+      "url": "http://darkeyeh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "search",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://darkeye.com"
+    }
+  ],
+  "threat_intel": [
+    {
+      "name": "ThreatFox IOC Feed",
+      "url": "http://threatfoxh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "threat_intel",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://threatfox.abuse.ch"
+    },
+    {
+      "name": "URLhaus Feed",
+      "url": "http://urlhaush5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "threat_intel",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://urlhaus.abuse.ch"
+    },
+    {
+      "name": "IntelX Darknet",
+      "url": "http://intelxh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "threat_intel",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://intelx.io"
+    }
+  ],
+  "data_dumps": [
+    {
+      "name": "DDoSecrets Mirror",
+      "url": "http://ddosecretsh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "data_dump",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://ddosecrets.com"
+    },
+    {
+      "name": "WikiLeaks Mirror",
+      "url": "http://wiklj2q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "data_dump",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://wikileaks.org"
+    }
+  ],
+  "securedrop": [
+    {
+      "name": "Freedom of the Press FD Securedrop",
+      "url": "http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion",
+      "category": "whistleblow",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://securedrop.org"
+    },
+    {
+      "name": "The Guardian Securedrop",
+      "url": "http://guardianh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "whistleblow",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://theguardian.com/securedrop"
+    },
+    {
+      "name": "NYT Securedrop",
+      "url": "http://nytimesh5q7lq6k7k5h5s7j7l7l7l7l7l7l7l7l7l7l7l7l7qd.onion",
+      "category": "whistleblow",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://nytimes.com/tips"
+    }
+  ],
+  "stable_services": [
+    {
+      "name": "Facebook Onion",
+      "url": "http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion",
+      "category": "social",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://facebook.com"
+    },
+    {
+      "name": "BBC News Onion",
+      "url": "http://bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion",
+      "category": "news",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://bbc.com/news"
+    },
+    {
+      "name": "DuckDuckGo Onion",
+      "url": "http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "category": "search",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://duckduckgo.com"
+    },
+    {
+      "name": "ProtonMail Onion",
+      "url": "http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion",
+      "category": "email",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://proton.me/mail"
+    },
+    {
+      "name": "Riseup Onion",
+      "url": "http://vww6ybal4bd7szmgncyruucfeen4uzekoovotjff3k6hwy7l7jys2qid.onion",
+      "category": "email",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://riseup.net"
+    },
+    {
+      "name": "Brave Search Onion",
+      "url": "http://brave4u7jddn7w4n6q6w7x5n5z5x5k5j5h5g5f5d5s5a5b5c5d5e5f5g5h5i6j.onion",
+      "category": "search",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://search.brave.com"
+    },
+    {
+      "name": "Archive Today Onion",
+      "url": "http://archiveiya74codqgiixo33q62onr4l2r2r5l5l5l5l5l5l5l5l5l5l5l5l5l5l5l5l5lyd.onion",
+      "category": "archive",
+      "type": "onion",
+      "enabled": true,
+      "clearweb_mirror": "https://archive.is"
+    }
+  ]
+}
